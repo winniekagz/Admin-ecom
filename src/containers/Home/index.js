@@ -12,10 +12,10 @@ import { NavLink } from 'react-router-dom';
 const Home = (props) => {
 
   return (
-    <Layout sidebar>
+    <Layout sidebar >
 
       
-      
+  
   
 
       {/* <Jumbotron style={{margin: '5rem', background: '#fff'}} className="text-center">
